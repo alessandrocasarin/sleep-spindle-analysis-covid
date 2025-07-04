@@ -22,13 +22,14 @@ This project was carried out for the Neurorobotics and Neurorehabilitation cours
 The dataset used is too large to upload here but is available [here](https://drive.google.com/drive/folders/1t0kmrh_W7CI5zuTup-H1F2yx1g7dt-E5?usp=share_link).
 
 ## Folder Structure
+```bash
 sleep-spindle-analysis-covid/
 │
 ├── main_script.m                # MATLAB script implementing the full analysis pipeline
 ├── solution_report.pdf          # Final project report with results and discussions
 ├── assignment.pdf               # Original project assignment
 └── README.md
-
+```
 
 ## Main Steps of the Analysis
 

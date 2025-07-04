@@ -19,6 +19,8 @@ This project was carried out for the Neurorobotics and Neurorehabilitation cours
   - Signal Processing Toolbox (butter, filtfilt, pwelch)
   - Custom scripts for spindle extraction and spectrum filtering
 
+The dataset used is too large to upload here but is available [here](https://drive.google.com/drive/folders/1t0kmrh_W7CI5zuTup-H1F2yx1g7dt-E5?usp=share_link).
+
 ## Folder Structure
 
 
